@@ -1,2 +1,17 @@
-# League_of_Legends_Worlds_2023-Visualization
-About Projekt zawiera wizualizacje danych związanych z League of Legends Worlds 2023. Prezentuje kluczowe statystyki turniejowe, wyniki drużyn, analizy graczy oraz inne dane analityczne
+# Wizualizacja turnieju Worlds 2023 w League of Legends
+To repozytorium zawiera projekt analizy danych z Mistrzostw Świata w League of Legends 2023.
+# Opis projektu
+
+Projekt miał na celu zebranie i przetworzenie danych turniejowych w celu stworzenia czytelnych i interaktywnych wizualizacji. Proces obejmował scrapowanie danych, ich oczyszczenie i transformację, a następnie przedstawienie kluczowych informacji w przystępnej formie. Dzięki temu możliwe było graficzne zobrazowanie przebiegu turnieju na podstawie zgromadzonych danych.
+
+# Etapy realizacji
+
+✔ Pobranie danych z oficjalnych źródeł
+
+✔ Oczyszczenie i przekształcenie informacji do dalszej analizy
+
+✔ Tworzenie wizualizacji przedstawiających wyniki i miejsca rozgrywek
+
+✔ Analiza kluczowych wydarzeń turnieju
+
+✔ Zwizualizowanie wybranych aspektów turnieju na podstawie zebranych danych
