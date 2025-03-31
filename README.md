@@ -1,4 +1,6 @@
 # Wizualizacja turnieju Worlds 2023 w League of Legends
+[Zobacz Raport](https://github.com/mateuszdrozd/League_of_Legends_Worlds_2023-Visualization/blob/main/Projekt.html)
+
 To repozytorium zawiera projekt analizy danych z Mistrzostw Świata w League of Legends 2023.
 # Opis projektu
 
